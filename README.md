@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/bitclave/Feeless.svg?branch=master)](https://travis-ci.org/bitclave/Feeless)
 [![Coverage Status](https://coveralls.io/repos/github/bitclave/Feeless/badge.svg)](https://coveralls.io/github/bitclave/Feeless)
-
+允许任何人代付gas
 Solidity Contract that allows anyone trustless pay fees for anyone
 
 # Installation
